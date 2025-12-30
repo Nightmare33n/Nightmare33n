@@ -1,16 +1,23 @@
-## Hi there 👋
+# About me | Software Developer
 
-<!--
-**Nightmare33n/Nightmare33n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Systems Engineering student and freelance developer specializing in Minecraft mod development and web applications.
 
-Here are some ideas to get you started:
+## Experience
+- **Freelance Minecraft Mod Developer** - Custom Java/Fabric mods for international clients via Fiverr
+- **Web Developer** - Building responsive applications with modern JavaScript frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+`JavaScript` `TypeScript` `React` `Next.js` `Node.js` `Java` `Fabric API` `Git` `REST APIs`
+
+## Education
+**Computer Systems Engineering** @ Instituto Tecnológico de Chihuahua II (TecNM)  
+*Expected 2029*
+
+## Current Focus
+- Delivering client projects in Minecraft mod development
+- Expanding expertise in system-level programming
+- Preparing for graduate studies in software engineering
+
+---
+
+📧 andreaguirre007@gmail.com | 💼 Open to opportunities and collaborations
