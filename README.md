@@ -1,23 +1,28 @@
-# About me | Software Developer
+# Software Developer
 
-Computer Systems Engineering student and freelance developer specializing in Minecraft mod development and web applications.
+Computer Systems Engineering student and freelance developer specializing in web / desktop applications.
 
 ## Experience
 - **Freelance Minecraft Mod Developer** - Custom Java/Fabric mods for international clients via Fiverr
 - **Web Developer** - Building responsive applications with modern JavaScript frameworks
 
 ## Technical Skills
-`JavaScript` `TypeScript` `React` `Next.js` `Node.js` `Java` `Fabric API` `Git` `REST APIs`
 
-## Education
-**Computer Systems Engineering** @ Instituto Tecnológico de Chihuahua II (TecNM)  
-*Expected 2029*
+**Languages & Frameworks**  
+`JavaScript` `Java` `Python` `HTML/CSS` `React` `Next.js` `Node.js` `TailwindCSS`
+
+**Tools & Technologies**  
+`Git` `GitHub` `Fabric API` `Minecraft Modding` `REST APIs` `Markdown` `LaTeX` `Linux/Unix`
+
+**Development Practices**  
+`Version Control` `API Integration` `Client Communication` `Project Management` `Debugging` `Documentation`
 
 ## Current Focus
+- Developing community projects, web, desktop and mobile apps
 - Delivering client projects in Minecraft mod development
 - Expanding expertise in system-level programming
-- Preparing for graduate studies in software engineering
+
 
 ---
 
-📧 andreaguirre007@gmail.com | 💼 Open to opportunities and collaborations
+📧 Contact: andreaguirre007@gmail.com | 💼 Open to opportunities and collaborations
