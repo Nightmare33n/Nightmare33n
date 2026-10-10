@@ -45,8 +45,8 @@ Computer Systems Engineering student and freelance developer. I build **web, des
 ### Recent activity
 
 <!-- ACTIVITY:START -->
-1. <sub>Oct 9</sub> &nbsp; 🚀 Released [v0.9.9](https://github.com/Nightmare33n/cumulus-releases/releases/tag/v0.9.9) of [cumulus-releases](https://github.com/Nightmare33n/cumulus-releases)
-2. <sub>Oct 4</sub> &nbsp; 🚀 Released [v0.9.2](https://github.com/Nightmare33n/DAW-releases/releases/tag/v0.9.2) of [DAW-releases](https://github.com/Nightmare33n/DAW-releases)
+1. <sub>Oct 10</sub> &nbsp; 🚀 Released [v0.10.0](https://github.com/Nightmare33n/DAW-releases/releases/tag/v0.10.0) of [DAW-releases](https://github.com/Nightmare33n/DAW-releases)
+2. <sub>Oct 9</sub> &nbsp; 🚀 Released [v0.9.10](https://github.com/Nightmare33n/cumulus-releases/releases/tag/v0.9.10) of [cumulus-releases](https://github.com/Nightmare33n/cumulus-releases)
 3. <sub>Oct 4</sub> &nbsp; 🚀 Released [v2.5.0](https://github.com/Nightmare33n/NetExpel-releases/releases/tag/v2.5.0) of [NetExpel-releases](https://github.com/Nightmare33n/NetExpel-releases)
 4. <sub>Sep 20</sub> &nbsp; 🚀 Released [v0.14.0](https://github.com/Nightmare33n/Jelly-Go-2-releases/releases/tag/v0.14.0) of [Jelly-Go-2-releases](https://github.com/Nightmare33n/Jelly-Go-2-releases)
 <!-- ACTIVITY:END -->
