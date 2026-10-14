@@ -45,11 +45,11 @@ Computer Systems Engineering student and freelance developer. I build **web, des
 ### Recent activity
 
 <!-- ACTIVITY:START -->
-1. <sub>Oct 14</sub> &nbsp; 🚀 Released [v0.13.0](https://github.com/Nightmare33n/DAW-releases/releases/tag/v0.13.0) of [DAW-releases](https://github.com/Nightmare33n/DAW-releases)
-2. <sub>Oct 14</sub> &nbsp; 🚀 Released [v0.3.1](https://github.com/Nightmare33n/NeoQM-releases/releases/tag/v0.3.1) of [NeoQM-releases](https://github.com/Nightmare33n/NeoQM-releases)
-3. <sub>Oct 14</sub> &nbsp; 🚀 Released [v0.9.11](https://github.com/Nightmare33n/cumulus-releases/releases/tag/v0.9.11) of [cumulus-releases](https://github.com/Nightmare33n/cumulus-releases)
-4. <sub>Oct 10</sub> &nbsp; 🚀 Released [v0.1.2](https://github.com/Nightmare33n/Switch-Network-Mapper-releases/releases/tag/v0.1.2) of [Switch-Network-Mapper-releases](https://github.com/Nightmare33n/Switch-Network-Mapper-releases)
-5. <sub>Oct 4</sub> &nbsp; 🚀 Released [v2.5.0](https://github.com/Nightmare33n/NetExpel-releases/releases/tag/v2.5.0) of [NetExpel-releases](https://github.com/Nightmare33n/NetExpel-releases)
+1. <sub>Oct 14</sub> &nbsp; 🚀 Released [v2.6.0](https://github.com/Nightmare33n/NetExpel-releases/releases/tag/v2.6.0) of [NetExpel-releases](https://github.com/Nightmare33n/NetExpel-releases)
+2. <sub>Oct 14</sub> &nbsp; 🚀 Released [v0.13.0](https://github.com/Nightmare33n/DAW-releases/releases/tag/v0.13.0) of [DAW-releases](https://github.com/Nightmare33n/DAW-releases)
+3. <sub>Oct 14</sub> &nbsp; 🚀 Released [v0.3.1](https://github.com/Nightmare33n/NeoQM-releases/releases/tag/v0.3.1) of [NeoQM-releases](https://github.com/Nightmare33n/NeoQM-releases)
+4. <sub>Oct 14</sub> &nbsp; 🚀 Released [v0.9.11](https://github.com/Nightmare33n/cumulus-releases/releases/tag/v0.9.11) of [cumulus-releases](https://github.com/Nightmare33n/cumulus-releases)
+5. <sub>Oct 10</sub> &nbsp; 🚀 Released [v0.1.2](https://github.com/Nightmare33n/Switch-Network-Mapper-releases/releases/tag/v0.1.2) of [Switch-Network-Mapper-releases](https://github.com/Nightmare33n/Switch-Network-Mapper-releases)
 <!-- ACTIVITY:END -->
 
 <sub>↑ updated automatically every 6 hours by a [GitHub Action](./.github/workflows/activity.yml)</sub>
