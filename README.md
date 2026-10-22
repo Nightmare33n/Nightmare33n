@@ -45,8 +45,8 @@ Computer Systems Engineering student and freelance developer. I build **web, des
 ### Recent activity
 
 <!-- ACTIVITY:START -->
-1. <sub>Oct 20</sub> &nbsp; 🚀 Released [v0.1.4](https://github.com/Nightmare33n/cross-share-releases/releases/tag/v0.1.4) of [cross-share-releases](https://github.com/Nightmare33n/cross-share-releases)
-2. <sub>Oct 16</sub> &nbsp; 🚀 Released [v0.15.0](https://github.com/Nightmare33n/DAW-releases/releases/tag/v0.15.0) of [DAW-releases](https://github.com/Nightmare33n/DAW-releases)
+1. <sub>Oct 22</sub> &nbsp; 🚀 Released [v0.15.1](https://github.com/Nightmare33n/DAW-releases/releases/tag/v0.15.1) of [DAW-releases](https://github.com/Nightmare33n/DAW-releases)
+2. <sub>Oct 22</sub> &nbsp; 🚀 Released [v0.1.5](https://github.com/Nightmare33n/cross-share-releases/releases/tag/v0.1.5) of [cross-share-releases](https://github.com/Nightmare33n/cross-share-releases)
 3. <sub>Oct 15</sub> &nbsp; 🚀 Released [v2.7.2](https://github.com/Nightmare33n/NetExpel-releases/releases/tag/v2.7.2) of [NetExpel-releases](https://github.com/Nightmare33n/NetExpel-releases)
 4. <sub>Oct 14</sub> &nbsp; 🚀 Released [v0.3.1](https://github.com/Nightmare33n/NeoQM-releases/releases/tag/v0.3.1) of [NeoQM-releases](https://github.com/Nightmare33n/NeoQM-releases)
 5. <sub>Oct 14</sub> &nbsp; 🚀 Released [v0.9.11](https://github.com/Nightmare33n/cumulus-releases/releases/tag/v0.9.11) of [cumulus-releases](https://github.com/Nightmare33n/cumulus-releases)
