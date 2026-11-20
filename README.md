@@ -45,9 +45,10 @@ Computer Systems Engineering student and freelance developer. I build **web, des
 ### Recent activity
 
 <!-- ACTIVITY:START -->
-1. <sub>Nov 7</sub> &nbsp; 🚀 Released [v0.1.8](https://github.com/Nightmare33n/cross-share-releases/releases/tag/v0.1.8) of [cross-share-releases](https://github.com/Nightmare33n/cross-share-releases)
-2. <sub>Nov 3</sub> &nbsp; 🚀 Released [v0.9.16](https://github.com/Nightmare33n/cumulus-releases/releases/tag/v0.9.16) of [cumulus-releases](https://github.com/Nightmare33n/cumulus-releases)
-3. <sub>Oct 26</sub> &nbsp; 🚀 Released [v0.19.0](https://github.com/Nightmare33n/DAW-releases/releases/tag/v0.19.0) of [DAW-releases](https://github.com/Nightmare33n/DAW-releases)
+1. <sub>Nov 20</sub> &nbsp; 🚀 Released [v1.0.0](https://github.com/Nightmare33n/Better-ScreenBox/releases/tag/v1.0.0) of [Better-ScreenBox](https://github.com/Nightmare33n/Better-ScreenBox)
+2. <sub>Nov 7</sub> &nbsp; 🚀 Released [v0.1.8](https://github.com/Nightmare33n/cross-share-releases/releases/tag/v0.1.8) of [cross-share-releases](https://github.com/Nightmare33n/cross-share-releases)
+3. <sub>Nov 3</sub> &nbsp; 🚀 Released [v0.9.16](https://github.com/Nightmare33n/cumulus-releases/releases/tag/v0.9.16) of [cumulus-releases](https://github.com/Nightmare33n/cumulus-releases)
+4. <sub>Oct 26</sub> &nbsp; 🚀 Released [v0.19.0](https://github.com/Nightmare33n/DAW-releases/releases/tag/v0.19.0) of [DAW-releases](https://github.com/Nightmare33n/DAW-releases)
 <!-- ACTIVITY:END -->
 
 <sub>↑ updated automatically every 6 hours by a [GitHub Action](./.github/workflows/activity.yml)</sub>
